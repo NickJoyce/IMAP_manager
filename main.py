@@ -117,7 +117,7 @@ if __name__ =='__main__':
                  'search_body:': mailbox.search_body('можете'),
                  'search_text:': mailbox.search_text('приобрести'),
                  'search_from:': mailbox.search_from('noreply@id.yandex.ru'),
-                 'search_to:': mailbox.search_to('elenkhomchenk@yandex.ru'),
+                 'search_to:': mailbox.search_to('test@yandex.ru'),
                  'search_seen:': mailbox.search_seen(),
                  'search_unseen:': mailbox.search_unseen()
                  }.items():
